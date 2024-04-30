@@ -1,0 +1,44 @@
+body {
+	background : #11111b;
+	padding-top: 10vh;
+}
+
+form {
+	background: #8901cc;
+}
+
+.form {
+	background: #8901cc;
+}
+
+.form-container {
+	border-radius: 10px;
+	padding      : 30px;
+}
+
+.status {
+	display: none;
+}
+
+.header {
+	text-align: center;
+	color     : #fff;
+}
+
+.notice {
+	font-size : 12px;
+	color     : #fff;
+	text-align: center;
+	color     : red !important;
+}
+
+.credit {
+	text-align: center;
+	color: whitesmoke;
+}
+.text-muted {
+    color: #f9f9f9 !important;
+}
+.btn-outline-primary{
+	color: #fff;
+}
