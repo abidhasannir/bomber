@@ -107,9 +107,9 @@
     {
         "id": "13",
         "name": "ALESHA_CARD",
-        "url": "https:\/\/aleshacard.com\/api\/register-otp?contact_no=*****",
+        "url": "https://bikroy.com/data/phone_number_login/verifications/phone_login?phone=*****",
         "method": "post",
-        "body": "",
+        "body": "{\"phone\":\"*****\"}",
         "headers": {
             "content-type": "application\/json"
         }
