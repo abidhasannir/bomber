@@ -87,11 +87,11 @@
     {
         "id": "11",
         "name": "Shajgoj",
-        "url": "https:\/\/shop.shajgoj.com\/wp-admin\/admin-ajax.php",
+        "url": "https:\/\/bk.shajgoj.com\/api\/customers\/send-otp",
         "method": "post",
-        "body": "action=xoo_ml_login_with_otp&xoo-ml-phone-login=*****&xoo-ml-form-token=4840&xoo-ml-form-type=login_user_with_otp&redirect=%2Fmy-account%2F",
+        "body": "{\"phone\":\"*****\"}",
         "headers": {
-            "content-type": "application\/x-www-form-urlencoded"
+            "content-type": "application\/json"
         }
     },
     {
