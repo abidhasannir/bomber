@@ -1,0 +1,15 @@
+{
+    "apis": [
+        {
+            "id": "28",
+            "name": "BKShop THC",
+            "url": "https://bkshopthc.grameenphone.com/api/v1/fwa/request-for-otp",
+            "method": "post",
+            "body": "{\"phone\": \"*****\", \"email\": \"\", \"language\": \"en\"}",
+            "headers": {
+                "content-type": "application/json",
+                "user-agent": "Mozilla/5.0"
+            }
+        }
+    ]
+}
